@@ -4,3 +4,5 @@
 .idea/preferred-vcs.xml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea
+node_modules
