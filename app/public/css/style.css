@@ -114,6 +114,10 @@ header .navbar-inverse .navbar-nav>li>a {
   line-height: 160%;
 }
 
+.speakerslist-img {
+  margin-right: 20px;
+}
+
 #speakerList .speakerslist-img {
   margin-right: 20px;
 }

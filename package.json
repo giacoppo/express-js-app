@@ -9,7 +9,8 @@
   "author": "Alessandro",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.14.0",
-    "reload": "^1.0.0"
+    "reload": "^1.1.7"
   }
 }
